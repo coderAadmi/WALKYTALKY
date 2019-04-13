@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WALKY TALKY</string>
+    <string name="WELCOME">WELCOME</string>
+    <string name="NAME">Your Name</string>
+    <string name="IpAddress">Enter IP Address</string>
+    <string name="Port">Enter Port no.</string>
+    <string name="NEXT">Next</string>
+</resources>
